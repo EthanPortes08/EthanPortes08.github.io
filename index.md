@@ -14,7 +14,7 @@ My GitHub page is http://github.com/EthanPortes08.
 
 * Lab 2
 
-Lab 2, my second favorite lab because this is where my partner and I really put our formatting practice to the test! Although we had a rough start, we picked up the pace halfway through and really started to get it with the help of our TA's. This lab had us edit viral_math.cc, which basically had our program use simple PEMDAS to solve 8/2 (2 + 2) and when the user inputted the question, the program would give the correct answer.
+  Lab 2, my second favorite lab because this is where my partner and I really put our formatting practice to the test! Although we had a rough start, we picked up the pace halfway through and really started to get it with the help of our TA's. This lab had us edit viral_math.cc, which basically had our program use simple PEMDAS to solve 8/2 (2 + 2) and when the user inputted the question, the program would give the correct answer.
 
 * Lab 6
 
