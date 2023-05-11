@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is Ethan Portes and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science
+This is my home page! My name is Ethan Portes and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
 
 ## Computer Science Projects
 
@@ -8,14 +8,14 @@ My GitHub page is http://github.com/EthanPortes08.
 
 ### CPSC 120
 
+* Lab 1
+
+  Lab 1 was the very first lab where we started off the very first day with a simple "Hello World!". This one had just a slight twist with it being hello, but with the coders, names which were my partner and I! For me, even though this was a very simple and straightforward process, it really got me hooked on what the future assignments had in store for us.
+
 * Lab 2
 
-    Lab 2, parts 1-3 was a favorite because it was a memorable experience becuase this was the first time I learned how to "actually code." I've learned the basics of HTML and CSS, but coding this way was an entirely new language. I like how I was able to learn how to edit a poorly structured code and form of knowledge with how to clone a git repository from GitHub and make changes to it. I had no idea how to execute it before or how to fix my errors.
+Lab 2, my second favorite lab because this is where my partner and I really put our formatting practice to the test! Although we had a rough start, we picked up the pace halfway through and really started to get it with the help of our TA's. This lab had us edit viral_math.cc, which basically had our program use simple PEMDAS to solve 8/2 (2 + 2) and when the user inputted the question, the program would give the correct answer.
 
 * Lab 6
 
-    Lab 6, was another favorite of mine because I learned to utilize nested loops in my coding. It was amazing how a game could be created from just a few lines of code. I discovered how to create a game where the player makes decisions that loop till the player wins. I even played around with it on my own time after I finished this lab.
-
-* Lab 7
-
-    Lab 7, was my 3rd favorite because I  always grew up playing Black Jack online becuase I couldn't afford expensive games growing up. It is so cool how I got to create the game on my own by writing functions till the numbers calculate the correct number. It was challenging to write but it was very memorable to learn.
+   Lab 6, my third favorite lab due to it being time-consuming, but a fun challenge yet again for my formatting. This program had us utilize vectors which store multiple items of the same type, which is what we used to store one hundred random numbers. Although it was a challenge at first, it really ensured I knew how to really format my code following Google's C++ guide.
